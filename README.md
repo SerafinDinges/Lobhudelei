@@ -3,7 +3,7 @@
 Daten in Sheets
 https://docs.google.com/spreadsheets/d/199jbnMLkGPOyMxQPM4tKSVIgNFXk2aAaYhk9daYIZkQ/edit?usp=sharing
 
-Insgesamt wörter geschrieben:	130988
+Insgesamt wörter geschrieben:	130988 wörter (144 Artikel)
 
 Unterschiedliche Wörter	22429
 
